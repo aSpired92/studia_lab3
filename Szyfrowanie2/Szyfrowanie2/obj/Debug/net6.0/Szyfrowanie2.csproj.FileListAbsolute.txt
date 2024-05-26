@@ -1,0 +1,15 @@
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\Szyfrowanie2.csproj.AssemblyReference.cache
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\Szyfrowanie2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\Szyfrowanie2.AssemblyInfoInputs.cache
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\Szyfrowanie2.AssemblyInfo.cs
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\Szyfrowanie2.csproj.CoreCompileInputs.cache
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\bin\Debug\net6.0\Szyfrowanie2.exe
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\bin\Debug\net6.0\Szyfrowanie2.deps.json
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\bin\Debug\net6.0\Szyfrowanie2.runtimeconfig.json
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\bin\Debug\net6.0\Szyfrowanie2.dll
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\bin\Debug\net6.0\Szyfrowanie2.pdb
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\Szyfrowanie2.dll
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\refint\Szyfrowanie2.dll
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\Szyfrowanie2.pdb
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\Szyfrowanie2.genruntimeconfig.cache
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie2\Szyfrowanie2\obj\Debug\net6.0\ref\Szyfrowanie2.dll

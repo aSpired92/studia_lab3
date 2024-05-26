@@ -1,0 +1,11 @@
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\bin\Debug\EnDeCrypt.exe.config
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\bin\Debug\EnDeCrypt.exe
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\bin\Debug\EnDeCrypt.pdb
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\obj\Debug\EnDeCrypt.csproj.AssemblyReference.cache
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\obj\Debug\EnDeCrypt.csproj.SuggestedBindingRedirects.cache
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\obj\Debug\EnDeCrypt.Form1.resources
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\obj\Debug\EnDeCrypt.Properties.Resources.resources
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\obj\Debug\EnDeCrypt.csproj.GenerateResource.cache
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\obj\Debug\EnDeCrypt.csproj.CoreCompileInputs.cache
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\obj\Debug\EnDeCrypt.exe
+E:\C Sharp Projects\EnDeCrypt\EnDeCrypt\obj\Debug\EnDeCrypt.pdb

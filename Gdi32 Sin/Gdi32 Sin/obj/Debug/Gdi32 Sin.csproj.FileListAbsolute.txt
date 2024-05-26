@@ -1,0 +1,11 @@
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\bin\Debug\Gdi32 Sin.exe.config
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\bin\Debug\Gdi32 Sin.exe
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\bin\Debug\Gdi32 Sin.pdb
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\obj\Debug\Gdi32 Sin.csproj.AssemblyReference.cache
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\obj\Debug\Gdi32 Sin.csproj.SuggestedBindingRedirects.cache
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\obj\Debug\Gdi32_Sin.Form1.resources
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\obj\Debug\Gdi32_Sin.Properties.Resources.resources
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\obj\Debug\Gdi32 Sin.csproj.GenerateResource.cache
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\obj\Debug\Gdi32 Sin.csproj.CoreCompileInputs.cache
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\obj\Debug\Gdi32 Sin.exe
+E:\C Sharp Projects\Szyfrowanie\Gdi32 Sin\Gdi32 Sin\obj\Debug\Gdi32 Sin.pdb

@@ -1,0 +1,11 @@
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\bin\Debug\Szyfrowanie4.exe.config
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\bin\Debug\Szyfrowanie4.exe
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\bin\Debug\Szyfrowanie4.pdb
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\obj\Debug\Szyfrowanie4.csproj.AssemblyReference.cache
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\obj\Debug\Szyfrowanie4.csproj.SuggestedBindingRedirects.cache
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\obj\Debug\Szyfrowanie4.Form1.resources
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\obj\Debug\Szyfrowanie4.Properties.Resources.resources
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\obj\Debug\Szyfrowanie4.csproj.GenerateResource.cache
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\obj\Debug\Szyfrowanie4.csproj.CoreCompileInputs.cache
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\obj\Debug\Szyfrowanie4.exe
+E:\C Sharp Projects\Szyfrowanie\Szyfrowanie4\Szyfrowanie4\obj\Debug\Szyfrowanie4.pdb
